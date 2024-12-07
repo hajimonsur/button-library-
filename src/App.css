@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 8px;
+}
+div {
+    margin: 20px 20px 20px 20px;
+}
+
+i {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.mm {
+    color: rgb(199, 213, 225);
+}

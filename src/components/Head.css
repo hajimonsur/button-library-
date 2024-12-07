@@ -1,0 +1,14 @@
+.logo {
+    border-radius: 50px;
+    background-color: grey;
+    width: 90px;
+    height: 90px;
+    margin: 30px 30px 20px 20px;
+    justify-items:center;
+   
+  
+}
+
+.head {
+    display: flex;
+}
